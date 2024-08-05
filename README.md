@@ -1,1 +1,2 @@
-# Computer_Vision_Advanced
+Complete Python Tutorial 
+A deatiled overview of Projects build with Python
